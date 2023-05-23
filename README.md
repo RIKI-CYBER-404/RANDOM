@@ -27,7 +27,7 @@
  rm -rf RANDOM
  git clone https://github.com/RIKI-CYBER-404/RANDOM
  cd RANDOM 
- python main py
+ python main.py
 
 ```
 
