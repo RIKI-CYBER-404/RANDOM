@@ -6,7 +6,7 @@
 
 [~]32/64 𝗕𝗜𝗧 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 / ⚠️𝗥𝗘𝗠𝗢𝗩𝗘 𝗘𝗠𝗢𝗝𝗜
 
-[~]𝗝𝗢𝗜𝗡 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗚𝗥𝗢𝗨𝗣 : https://m.me/j/AbY76s_nOGWJD6vr/
+[~]𝗝𝗢𝗜𝗡 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗚𝗥𝗢𝗨𝗣 :https://m.me/j/AbYzrhaX-MCXnMO2/
 
 
 [~] 𝗧𝗢𝗢𝗟𝗦👇
@@ -27,7 +27,7 @@
  rm -rf RANDOM
  git clone https://github.com/RIKI-CYBER-404/RANDOM
  cd RANDOM 
- python run.py
+ python XD.py
 
 ```
 
@@ -38,6 +38,6 @@
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize; pip install bs4, pkg install git ; git clone https://github.com/RIKI-CYBER-404/RANDOM ; cd RANDOM ; python run.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize; pip install bs4, pkg install git ; git clone https://github.com/RIKI-CYBER-404/RANDOM ; cd RANDOM ; python XD.py
 
 [~] NOTE : (This Tools Are Free Enjoy )
